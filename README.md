@@ -15,7 +15,7 @@
 
 - 🕛 I’m currently learning **React.js, React Native & Mobile Development**
 
-- 👮 I previously worked on [NTSF](https://github.com/UCSC-LK/NTSF-frontend.git, https://github.com/UCSC-LK/NTSF-backend.git)
+- 👮 I previously worked on [NTSF](https://github.com/UCSC-LK/NTSF-backend.git)
 
 <!-- - 💬 Ask me about **Git, Java & OOP** -->
 
