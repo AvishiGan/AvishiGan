@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergraduate - Level 3 | Full Stack Developer</h3>
 
 # 💫 About Me:
-* 🎓 B.Sc. Computer Science Undergraduate [@UCSC](https://ucsc.cmb.ac.lk/)<br><br>* 🤓 Knowledge seeker 💡 Solution Oriented<br><br>* 🤳 I’m currently working on [Ufora](https://github.com/UCSC-LK/ufora-mobile.git)<br><br>* 🌱 I’m currently learning **React.js, React Native & Mobile App Development**<br><br>* 👮 I previously worked on [NTSF](https://github.com/UCSC-LK/NTSF-backend.git)<br><br>* 🚀 I'm looking to collaborate on any project that helps me expand my tech horizons! <br><br>* 📫 How to reach me **avishiganepola@gmail.com**<br><br>* 🏫 Alumni [@RBV](https://rathnavali.lk/)<br><br> ### Interests 💭<br>**#software-engineering | #full-stack-web-development | #mobile-app-development | #architectural-design| #project-management | #ai-enthusiast**<br>
+* 🎓 B.Sc. Computer Science Undergraduate [@UCSC](https://ucsc.cmb.ac.lk/)<br><br>* 🤓 Knowledge seeker 💡 Solution Oriented<br><br>* 🤳 I’m currently working on [Ufora](https://github.com/UCSC-LK/ufora-mobile.git)<br><br>* 🌱 I’m currently learning **React.js, React Native & Mobile App Development**<br><br>* 👮 I previously worked on [NTSF](https://github.com/UCSC-LK/NTSF-backend.git)<br><br>* 🚀 I'm looking to collaborate on any project that helps me expand my tech horizons! <br><br>* 📫 How to reach me **avishiganepola@gmail.com**<br><br>* 🏫 Alumni [@RBV](https://rathnavali.lk/)<br><br> ### Interests 💭<br>**#software-engineering | #full-stack-web-development | #mobile-app-development | #architectural-design| #project-management | #ai-enthusiast**<br><br>
 
 
 ## 🌐 Socials:
