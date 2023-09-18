@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! I'm Avishi 🤗</h1>
-<h3 align="center">CS Undergraduate - Level 3 | Full Stack Developer</h3>
+<h3 align="center">CS Undergraduate - Level 3 | Full-Stack Developer</h3>
 
 # 💫 About Me:
 - 🎓 B.Sc. Computer Science Undergraduate [@UCSC](https://ucsc.cmb.ac.lk/)
@@ -10,7 +10,7 @@
 - 🚀 I'm looking to collaborate on any project that helps me expand my tech horizons!
 - 📫 How to reach me **avishiganepola@gmail.com**
 - 🏫 Alumni [@RBV](https://rathnavali.lk/)
-### Interests 💭<br>**#software-engineering | #full-stack-web-development | #mobile-app-development | #architectural-design| #project-management | #ai-enthusiast**<br><br>
+### Interests 💭<br>**#software-engineering | #web-development | #mobile-app-development | #architectural-design| #project-management<br><br>
 
 
 ## 🌐 Socials:
