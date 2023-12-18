@@ -5,7 +5,7 @@
 - 🎓 B.Sc. Computer Science Undergraduate [@UCSC](https://ucsc.cmb.ac.lk/)
 - 🤓 Knowledge seeker 💡 Solution Oriented
 - 🤳 I’m currently working as an intern full-stack developer at [@iVedha](https://www.linkedin.com/company/ivedha/mycompany/)
-- 🌱 I’m currently learning **React.js, React Native & Mobile App Development**
+- 🌱 I’m currently learning Golang and AWS.
 - 👮 I previously worked on projects like [NTSF](https://github.com/UCSC-LK/NTSF-backend.git), [Ufora](https://github.com/UCSC-LK/ufora-mobile.git) etc.
 - 🚀 I'm looking to collaborate on any project that helps me expand my tech horizons!
 - 📫 How to reach me **avishiganepola@gmail.com**
