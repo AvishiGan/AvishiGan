@@ -4,9 +4,9 @@
 # 💫 About Me:
 - 🎓 B.Sc. Computer Science Undergraduate [@UCSC](https://ucsc.cmb.ac.lk/)
 - 🤓 Knowledge seeker 💡 Solution Oriented
-- 🤳 I’m currently working on [Ufora](https://github.com/UCSC-LK/ufora-mobile.git)
+- 🤳 I’m currently working as an intern full-stack developer at [@iVedha](https://www.linkedin.com/company/ivedha/mycompany/)
 - 🌱 I’m currently learning **React.js, React Native & Mobile App Development**
-- 👮 I previously worked on [NTSF](https://github.com/UCSC-LK/NTSF-backend.git)
+- 👮 I previously worked on projects like [NTSF](https://github.com/UCSC-LK/NTSF-backend.git), [Ufora](https://github.com/UCSC-LK/ufora-mobile.git) etc.
 - 🚀 I'm looking to collaborate on any project that helps me expand my tech horizons!
 - 📫 How to reach me **avishiganepola@gmail.com**
 - 🏫 Alumni [@RBV](https://rathnavali.lk/)
@@ -16,10 +16,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/avishiganepola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avishiganepola" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21097632/avishi-ganepola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="avishi ganepola" height="30" width="40" /></a>
 <a href="https://www.behance.net/avishiganepola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="avishi ganepola" height="30" width="40" /></a>
-<a href="https://medium.com/@avishiganepola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="avishi ganepola" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avishiganepola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avishi ganepola" height="30" width="40" /></a>
 </p><br>
 
 
